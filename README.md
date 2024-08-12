@@ -12,3 +12,6 @@ max Q(s´,a´): maximum expected return for the next state s´.
 
 ### Algorithm to train the Agent:
 <img width="1271" alt="deep_q_algorithm" src="https://github.com/user-attachments/assets/b4d8320a-2d9d-4c1b-b185-0477b10998ad">
+
+### The points achieved after each episode during training.
+![Total_points_vs_episode](https://github.com/user-attachments/assets/f1e61b1d-6b3d-4522-8950-1e240af87678)
